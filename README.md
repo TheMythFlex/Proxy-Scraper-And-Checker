@@ -11,7 +11,7 @@ Proxy Api's Keeps Updating frequently
 - Supports (Http/Https - Socks4/Socks5)  
 - Checks each Proxy on [Google.com](https://google.com/) 
 - Custom Proxy Check (Enter Url) 
-- multiple Threads 
+- Multiple Threads 
 - Saves Working Proxies In A Different Txt File
 <!-- BLOG-POST-LIST:END -->
 
