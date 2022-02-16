@@ -26,6 +26,6 @@ Proxy Api's Keeps Updating frequently
 
 ---
 
-<h4> Contact Me: Flex#8629 <h4>
+<h4> Contact Me Discord: Flex#8629 <h4>
   
 ![alt text](https://cdn.discordapp.com/attachments/899424300120027216/942083418332749844/pro.png)  
