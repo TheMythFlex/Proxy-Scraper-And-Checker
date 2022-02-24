@@ -12,7 +12,7 @@ Proxy Api's Keeps Updating frequently
 <!-- BLOG-POST-LIST:START -->
 - Fast asf 
 - User Friendly
-- Multiple Proxy Api's
+- Multiple Proxies Api's
 - Supports (Http/Https - Socks4/Socks5)  
 - Checks each Proxy on [Google.com](https://google.com/) 
 - Custom Proxy Check (Enter Url) 
